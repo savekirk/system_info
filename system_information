@@ -1,5 +1,7 @@
 #!/bin/bash
 # program to output system information
+# Author: Agbenyegah Kirk Saviour
+# Email: savekirk@gmail.com
 
 TITLE="System Information Report for $HOSTNAME"
 CURRENT_TIME=$(date +"%x %r %Z")
